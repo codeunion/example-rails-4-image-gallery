@@ -14,16 +14,17 @@ As you work through this project, focus on:
    [YARD](http://rubydoc.info/gems/yard/file/docs/GettingStarted.md).
 
 ## Releases
-Each release is broken into individual features. Create a [branch and pull
-request for each
-feature](https://help.github.com/articles/using-pull-requests#initiating-the-pull-request).
-Make sure you [submit the pull request against *your
-fork*](https://help.github.com/articles/using-pull-requests#changing-the-branch-range-and-destination-repository),
-not the CodeUnion master repository.
+Each release is made of individual features. For each feature, create a
+[branch and pull
+request](https://help.github.com/articles/using-pull-requests#initiating-the-pull-request).
+When you submit the pull request, *make sure you [submit the pull request
+against your
+fork*](https://help.github.com/articles/using-pull-requests#changing-the-branch-range-and-destination-repository).
+Github will default to submitting the pull request against the Codeunion master
+repository.
 
-Submit each pull request as a request for feedback. Feel free to merge them into
-your fork as soon as you submit them; or wait until after you've received
-feedback.
+Submit each pull request as a request for feedback. You may merge them into your
+fork immediately; or wait for feedback.
 
 Each feature should take between 30 minutes to 3 hours to complete.
 
