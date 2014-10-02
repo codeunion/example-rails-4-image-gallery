@@ -1,91 +1,14 @@
 <mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1284" measuredH="1516" mockupW="1284" mockupH="1500">
   <controls>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::StickyNote" x="15" y="940" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="23" locked="false" isInGroup="-1">
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::StickyNote" x="15" y="940" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="39" locked="false" isInGroup="-1">
       <controlProperties>
         <text>When%20already%20logged%20in</text>
       </controlProperties>
     </control>
-    <control controlID="26" controlTypeID="com.balsamiq.mockups::StickyNote" x="0" y="117" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="24" locked="false" isInGroup="-1">
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::StickyNote" x="0" y="117" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="40" locked="false" isInGroup="-1">
       <controlProperties>
         <text>When%20not%20logged%20in</text>
       </controlProperties>
-    </control>
-    <control controlID="60" controlTypeID="__group__" x="94" y="16" w="782" h="720" measuredW="782" measuredH="720" zOrder="9" locked="false" isInGroup="-1">
-      <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="782" h="720" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="60">
-          <controlProperties>
-            <text>Pictr%2C%20by%20Your%20Username%0Ahttp%3A//pictr-your-username.herokuapp.com/</text>
-          </controlProperties>
-        </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="15" y="163" w="170" h="302" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="60"/>
-        <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="15" y="83" w="-1" h="-1" measuredW="87" measuredH="43" zOrder="2" locked="false" isInGroup="60">
-          <controlProperties>
-            <text>Pictr</text>
-          </controlProperties>
-        </control>
-        <control controlID="3" controlTypeID="com.balsamiq.mockups::SubTitle" x="15" y="126" w="-1" h="-1" measuredW="312" measuredH="27" zOrder="3" locked="false" isInGroup="60">
-          <controlProperties>
-            <text>A%20not-so-subtle%20imgur%20rip-off</text>
-          </controlProperties>
-        </control>
-        <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="207" y="163" w="170" h="302" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="60"/>
-        <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="401" y="163" w="170" h="302" measuredW="77" measuredH="79" zOrder="5" locked="false" isInGroup="60"/>
-        <control controlID="6" controlTypeID="com.balsamiq.mockups::Image" x="597" y="163" w="170" h="302" measuredW="77" measuredH="79" zOrder="6" locked="false" isInGroup="60"/>
-        <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="15" y="481" w="170" h="213" measuredW="77" measuredH="79" zOrder="7" locked="false" isInGroup="60"/>
-        <control controlID="8" controlTypeID="com.balsamiq.mockups::Image" x="207" y="481" w="170" h="213" measuredW="77" measuredH="79" zOrder="8" locked="false" isInGroup="60"/>
-        <control controlID="9" controlTypeID="com.balsamiq.mockups::Image" x="401" y="481" w="170" h="213" measuredW="77" measuredH="79" zOrder="9" locked="false" isInGroup="60"/>
-        <control controlID="10" controlTypeID="com.balsamiq.mockups::Image" x="597" y="481" w="170" h="213" measuredW="77" measuredH="79" zOrder="10" locked="false" isInGroup="60"/>
-        <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="557" y="83" w="-1" h="-1" measuredW="210" measuredH="24" zOrder="11" locked="false" isInGroup="60">
-          <controlProperties>
-            <size>16</size>
-            <text>%5BCreate%20an%20Account%5D%20Or%20%5BLog%20in%5D</text>
-          </controlProperties>
-        </control>
-      </groupChildrenDescriptors>
-    </control>
-    <control controlID="61" controlTypeID="__group__" x="896" y="22" w="342" h="520" measuredW="342" measuredH="520" zOrder="8" locked="false" isInGroup="-1">
-      <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="342" h="520" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="61">
-          <controlProperties>
-            <text>Pictr%2C%20by%20Your%20Username%0Ahttp%3A//pictr-your-username.herokuapp.com/</text>
-          </controlProperties>
-        </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="15" y="89" w="-1" h="-1" measuredW="87" measuredH="43" zOrder="1" locked="false" isInGroup="61">
-          <controlProperties>
-            <text>Pictr</text>
-          </controlProperties>
-        </control>
-        <control controlID="2" controlTypeID="com.balsamiq.mockups::SubTitle" x="15" y="132" w="-1" h="-1" measuredW="312" measuredH="27" zOrder="2" locked="false" isInGroup="61">
-          <controlProperties>
-            <text>A%20not-so-subtle%20imgur%20rip-off</text>
-          </controlProperties>
-        </control>
-        <control controlID="3" controlTypeID="com.balsamiq.mockups::SubTitle" x="15" y="313" w="-1" h="-1" measuredW="167" measuredH="27" zOrder="3" locked="false" isInGroup="61">
-          <controlProperties>
-            <text>Recent%20Images</text>
-          </controlProperties>
-        </control>
-        <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="15" y="340" w="147" h="153" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="61"/>
-        <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="174" y="340" w="147" h="153" measuredW="77" measuredH="79" zOrder="5" locked="false" isInGroup="61"/>
-        <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="15" y="168" w="312" h="55" measuredW="215" measuredH="48" zOrder="6" locked="false" isInGroup="61">
-          <controlProperties>
-            <align>left</align>
-            <icon>PlusBigIcon%7Clarge</icon>
-            <menuIcon>false</menuIcon>
-            <size>20</size>
-            <text>Create%20Account</text>
-          </controlProperties>
-        </control>
-        <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="15" y="233" w="312" h="55" measuredW="132" measuredH="48" zOrder="7" locked="false" isInGroup="61">
-          <controlProperties>
-            <align>left</align>
-            <icon>UserIcon%7Clarge</icon>
-            <menuIcon>false</menuIcon>
-            <size>20</size>
-            <text>Log%20In</text>
-          </controlProperties>
-        </control>
-      </groupChildrenDescriptors>
     </control>
     <control controlID="64" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="942" y="796" w="342" h="520" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
@@ -102,86 +25,179 @@
         <text>A%20not-so-subtle%20imgur%20rip-off</text>
       </controlProperties>
     </control>
-    <control controlID="67" controlTypeID="com.balsamiq.mockups::SubTitle" x="957" y="964" w="-1" h="-1" measuredW="167" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Recent%20Images</text>
-      </controlProperties>
-    </control>
-    <control controlID="68" controlTypeID="com.balsamiq.mockups::Image" x="957" y="991" w="147" h="166" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="-1"/>
-    <control controlID="70" controlTypeID="com.balsamiq.mockups::Image" x="1116" y="991" w="147" h="166" measuredW="77" measuredH="79" zOrder="5" locked="false" isInGroup="-1"/>
-    <control controlID="71" controlTypeID="com.balsamiq.mockups::Image" x="957" y="1172" w="147" h="117" measuredW="77" measuredH="79" zOrder="6" locked="false" isInGroup="-1"/>
-    <control controlID="72" controlTypeID="com.balsamiq.mockups::Image" x="1116" y="1172" w="147" h="117" measuredW="77" measuredH="79" zOrder="7" locked="false" isInGroup="-1"/>
-    <control controlID="74" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="99" y="796" w="782" h="720" measuredW="450" measuredH="400" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::Image" x="957" y="1011" w="147" h="166" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::Image" x="1116" y="1011" w="147" h="166" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::Image" x="957" y="1192" w="147" h="97" measuredW="77" measuredH="79" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::Image" x="1116" y="1192" w="147" h="97" measuredW="77" measuredH="79" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="99" y="796" w="782" h="720" measuredW="450" measuredH="400" zOrder="26" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Pictr%2C%20by%20Your%20Username%0Ahttp%3A//pictr-your-username.herokuapp.com/</text>
       </controlProperties>
     </control>
-    <control controlID="75" controlTypeID="com.balsamiq.mockups::Image" x="114" y="1059" w="170" h="302" measuredW="77" measuredH="79" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::Image" x="114" y="1021" w="170" h="302" measuredW="77" measuredH="79" zOrder="27" locked="false" isInGroup="-1">
       <controlProperties>
         <filter>true</filter>
       </controlProperties>
     </control>
-    <control controlID="76" controlTypeID="com.balsamiq.mockups::Title" x="114" y="879" w="-1" h="-1" measuredW="87" measuredH="43" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::Title" x="114" y="879" w="-1" h="-1" measuredW="87" measuredH="43" zOrder="28" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Pictr</text>
       </controlProperties>
     </control>
-    <control controlID="77" controlTypeID="com.balsamiq.mockups::SubTitle" x="114" y="922" w="-1" h="-1" measuredW="312" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::SubTitle" x="114" y="922" w="-1" h="-1" measuredW="312" measuredH="27" zOrder="29" locked="false" isInGroup="-1">
       <controlProperties>
         <text>A%20not-so-subtle%20imgur%20rip-off</text>
       </controlProperties>
     </control>
-    <control controlID="78" controlTypeID="com.balsamiq.mockups::Image" x="306" y="1059" w="170" h="302" measuredW="77" measuredH="79" zOrder="14" locked="false" isInGroup="-1">
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::Image" x="306" y="1021" w="170" h="302" measuredW="77" measuredH="79" zOrder="30" locked="false" isInGroup="-1">
       <controlProperties>
         <filter>true</filter>
       </controlProperties>
     </control>
-    <control controlID="79" controlTypeID="com.balsamiq.mockups::Image" x="500" y="1059" w="170" h="302" measuredW="77" measuredH="79" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::Image" x="500" y="1021" w="170" h="302" measuredW="77" measuredH="79" zOrder="31" locked="false" isInGroup="-1">
       <controlProperties>
         <filter>true</filter>
       </controlProperties>
     </control>
-    <control controlID="80" controlTypeID="com.balsamiq.mockups::Image" x="696" y="1059" w="170" h="302" measuredW="77" measuredH="79" zOrder="16" locked="false" isInGroup="-1">
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::Image" x="696" y="1021" w="170" h="302" measuredW="77" measuredH="79" zOrder="32" locked="false" isInGroup="-1">
       <controlProperties>
         <filter>true</filter>
       </controlProperties>
     </control>
-    <control controlID="81" controlTypeID="com.balsamiq.mockups::Image" x="114" y="1377" w="170" h="112" measuredW="77" measuredH="79" zOrder="17" locked="false" isInGroup="-1">
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::Image" x="114" y="1339" w="170" h="151" measuredW="77" measuredH="79" zOrder="33" locked="false" isInGroup="-1">
       <controlProperties>
         <filter>true</filter>
       </controlProperties>
     </control>
-    <control controlID="82" controlTypeID="com.balsamiq.mockups::Image" x="306" y="1377" w="170" h="112" measuredW="77" measuredH="79" zOrder="18" locked="false" isInGroup="-1">
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::Image" x="306" y="1339" w="170" h="151" measuredW="77" measuredH="79" zOrder="34" locked="false" isInGroup="-1">
       <controlProperties>
         <filter>true</filter>
       </controlProperties>
     </control>
-    <control controlID="83" controlTypeID="com.balsamiq.mockups::Image" x="500" y="1377" w="170" h="112" measuredW="77" measuredH="79" zOrder="19" locked="false" isInGroup="-1">
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::Image" x="500" y="1339" w="170" h="151" measuredW="77" measuredH="79" zOrder="35" locked="false" isInGroup="-1">
       <controlProperties>
         <filter>true</filter>
       </controlProperties>
     </control>
-    <control controlID="84" controlTypeID="com.balsamiq.mockups::Image" x="696" y="1377" w="170" h="112" measuredW="77" measuredH="79" zOrder="20" locked="false" isInGroup="-1">
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::Image" x="696" y="1339" w="170" h="151" measuredW="77" measuredH="79" zOrder="36" locked="false" isInGroup="-1">
       <controlProperties>
         <filter>true</filter>
       </controlProperties>
     </control>
-    <control controlID="85" controlTypeID="com.balsamiq.mockups::Label" x="696" y="879" w="-1" h="-1" measuredW="173" measuredH="24" zOrder="21" locked="false" isInGroup="-1">
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::Label" x="571" y="879" w="-1" h="-1" measuredW="295" measuredH="24" zOrder="37" locked="false" isInGroup="-1">
       <controlProperties>
         <size>16</size>
-        <text>%5BYour%20Pictures%5D%20-%20%5BLog%20Out%5D</text>
+        <text>Home%20-%20%5BUpload%5D%20-%20%5BYour%20Pictures%5D%20-%20%5BLog%20Out%5D</text>
       </controlProperties>
     </control>
-    <control controlID="86" controlTypeID="com.balsamiq.mockups::Button" x="306" y="964" w="364" h="80" measuredW="216" measuredH="64" zOrder="22" locked="false" isInGroup="-1">
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::Button" x="124" y="964" w="364" h="42" measuredW="133" measuredH="32" zOrder="38" locked="false" isInGroup="-1">
       <controlProperties>
-        <icon>CameraIcon%7Cxlarge</icon>
-        <size>40</size>
+        <icon>CameraIcon%7Cmedium</icon>
+        <size>24</size>
         <text>Upload</text>
       </controlProperties>
     </control>
-    <control controlID="87" controlTypeID="com.balsamiq.mockups::ButtonBar" x="942" y="1234" w="342" h="55" measuredW="242" measuredH="27" zOrder="25" locked="false" isInGroup="-1">
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::ButtonBar" x="942" y="1234" w="342" h="55" measuredW="300" measuredH="27" zOrder="41" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Upload%2C%20Your%20Pictures%2C%20Log%20Out</text>
+        <text>Home%2C%20Upload%2C%20Your%20Pictures%2C%20Log%20Out</text>
+      </controlProperties>
+    </control>
+    <control controlID="89" controlTypeID="com.balsamiq.mockups::SearchBox" x="519" y="964" w="275" h="-1" measuredW="120" measuredH="36" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+      </controlProperties>
+    </control>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::Button" x="809" y="964" w="57" h="42" measuredW="54" measuredH="32" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>SearchIcon%7Cmedium</icon>
+        <size>24</size>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="91" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="94" y="16" w="782" h="720" measuredW="450" measuredH="400" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pictr%2C%20by%20Your%20Username%0Ahttp%3A//pictr-your-username.herokuapp.com/</text>
+      </controlProperties>
+    </control>
+    <control controlID="92" controlTypeID="com.balsamiq.mockups::Image" x="108" y="235" w="170" h="302" measuredW="77" measuredH="79" zOrder="15" locked="false" isInGroup="-1"/>
+    <control controlID="93" controlTypeID="com.balsamiq.mockups::Title" x="109" y="99" w="-1" h="-1" measuredW="87" measuredH="43" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pictr</text>
+      </controlProperties>
+    </control>
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::SubTitle" x="109" y="142" w="-1" h="-1" measuredW="312" measuredH="27" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20not-so-subtle%20imgur%20rip-off</text>
+      </controlProperties>
+    </control>
+    <control controlID="95" controlTypeID="com.balsamiq.mockups::Image" x="300" y="235" w="170" h="302" measuredW="77" measuredH="79" zOrder="18" locked="false" isInGroup="-1"/>
+    <control controlID="96" controlTypeID="com.balsamiq.mockups::Image" x="494" y="235" w="170" h="302" measuredW="77" measuredH="79" zOrder="19" locked="false" isInGroup="-1"/>
+    <control controlID="97" controlTypeID="com.balsamiq.mockups::Image" x="690" y="235" w="170" h="302" measuredW="77" measuredH="79" zOrder="20" locked="false" isInGroup="-1"/>
+    <control controlID="98" controlTypeID="com.balsamiq.mockups::Image" x="108" y="553" w="170" h="158" measuredW="77" measuredH="79" zOrder="21" locked="false" isInGroup="-1"/>
+    <control controlID="99" controlTypeID="com.balsamiq.mockups::Image" x="300" y="553" w="170" h="158" measuredW="77" measuredH="79" zOrder="22" locked="false" isInGroup="-1"/>
+    <control controlID="100" controlTypeID="com.balsamiq.mockups::Image" x="494" y="553" w="170" h="158" measuredW="77" measuredH="79" zOrder="23" locked="false" isInGroup="-1"/>
+    <control controlID="101" controlTypeID="com.balsamiq.mockups::Image" x="690" y="553" w="170" h="158" measuredW="77" measuredH="79" zOrder="24" locked="false" isInGroup="-1"/>
+    <control controlID="102" controlTypeID="com.balsamiq.mockups::Label" x="651" y="99" w="-1" h="-1" measuredW="210" measuredH="24" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%5BCreate%20an%20Account%5D%20Or%20%5BLog%20in%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="103" controlTypeID="com.balsamiq.mockups::SearchBox" x="108" y="184" w="686" h="-1" measuredW="120" measuredH="36" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+      </controlProperties>
+    </control>
+    <control controlID="104" controlTypeID="com.balsamiq.mockups::Button" x="809" y="181" w="57" h="42" measuredW="54" measuredH="32" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>SearchIcon%7Cmedium</icon>
+        <size>24</size>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="105" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="896" y="22" w="342" h="520" measuredW="450" measuredH="400" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pictr%2C%20by%20Your%20Username%0Ahttp%3A//pictr-your-username.herokuapp.com/</text>
+      </controlProperties>
+    </control>
+    <control controlID="106" controlTypeID="com.balsamiq.mockups::Title" x="911" y="111" w="-1" h="-1" measuredW="87" measuredH="43" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pictr</text>
+      </controlProperties>
+    </control>
+    <control controlID="107" controlTypeID="com.balsamiq.mockups::SubTitle" x="911" y="154" w="-1" h="-1" measuredW="312" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20not-so-subtle%20imgur%20rip-off</text>
+      </controlProperties>
+    </control>
+    <control controlID="109" controlTypeID="com.balsamiq.mockups::Image" x="911" y="371" w="147" h="142" measuredW="77" measuredH="79" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="110" controlTypeID="com.balsamiq.mockups::Image" x="1070" y="371" w="147" h="142" measuredW="77" measuredH="79" zOrder="11" locked="false" isInGroup="-1"/>
+    <control controlID="111" controlTypeID="com.balsamiq.mockups::Button" x="911" y="190" w="312" h="55" measuredW="215" measuredH="48" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <icon>PlusBigIcon%7Clarge</icon>
+        <menuIcon>false</menuIcon>
+        <size>20</size>
+        <text>Create%20Account</text>
+      </controlProperties>
+    </control>
+    <control controlID="112" controlTypeID="com.balsamiq.mockups::Button" x="911" y="255" w="312" h="55" measuredW="132" measuredH="48" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <icon>UserIcon%7Clarge</icon>
+        <menuIcon>false</menuIcon>
+        <size>20</size>
+        <text>Log%20In</text>
+      </controlProperties>
+    </control>
+    <control controlID="113" controlTypeID="com.balsamiq.mockups::SearchBox" x="911" y="332" w="306" h="-1" measuredW="120" measuredH="36" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+      </controlProperties>
+    </control>
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::SearchBox" x="957" y="973" w="306" h="-1" measuredW="120" measuredH="36" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
       </controlProperties>
     </control>
   </controls>
