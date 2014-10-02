@@ -20,10 +20,10 @@
         <text>Your%20Pictures</text>
       </controlProperties>
     </control>
-    <control controlID="69" controlTypeID="com.balsamiq.mockups::ButtonBar" x="896" y="463" w="342" h="55" measuredW="300" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::ButtonBar" x="896" y="463" w="342" h="55" measuredW="309" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <selectedIndex>2</selectedIndex>
-        <text>Home%2C%20Upload%2C%20Your%20Pictures%2C%20Log%20Out</text>
+        <text>Browse%2C%20Upload%2C%20Your%20Pictures%2C%20Log%20Out</text>
       </controlProperties>
     </control>
     <control controlID="75" controlTypeID="__group__" x="911" y="426" w="147" h="92" measuredW="147" measuredH="92" zOrder="6" locked="false" isInGroup="-1">
@@ -80,10 +80,10 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="86" controlTypeID="com.balsamiq.mockups::Label" x="566" y="99" w="-1" h="-1" measuredW="295" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::Label" x="554" y="99" w="-1" h="-1" measuredW="307" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <size>16</size>
-        <text>%5BHome%5D%20-%20%5BUpload%5D%20-%20Your%20Pictures%20-%20%5BLog%20Out%5D</text>
+        <text>%5BBrowse%5D%20-%20%5BUpload%5D%20-%20Your%20Pictures%20-%20%5BLog%20Out%5D</text>
       </controlProperties>
     </control>
     <control controlID="98" controlTypeID="__group__" x="109" y="206" w="344" h="376" measuredW="344" measuredH="376" zOrder="12" locked="false" isInGroup="-1">

@@ -84,10 +84,10 @@
         <filter>true</filter>
       </controlProperties>
     </control>
-    <control controlID="85" controlTypeID="com.balsamiq.mockups::Label" x="571" y="879" w="-1" h="-1" measuredW="295" measuredH="24" zOrder="37" locked="false" isInGroup="-1">
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::Label" x="559" y="879" w="-1" h="-1" measuredW="307" measuredH="24" zOrder="37" locked="false" isInGroup="-1">
       <controlProperties>
         <size>16</size>
-        <text>Home%20-%20%5BUpload%5D%20-%20%5BYour%20Pictures%5D%20-%20%5BLog%20Out%5D</text>
+        <text>Browse%20-%20%5BUpload%5D%20-%20%5BYour%20Pictures%5D%20-%20%5BLog%20Out%5D</text>
       </controlProperties>
     </control>
     <control controlID="86" controlTypeID="com.balsamiq.mockups::Button" x="124" y="964" w="364" h="42" measuredW="133" measuredH="32" zOrder="38" locked="false" isInGroup="-1">
@@ -97,9 +97,9 @@
         <text>Upload</text>
       </controlProperties>
     </control>
-    <control controlID="87" controlTypeID="com.balsamiq.mockups::ButtonBar" x="942" y="1234" w="342" h="55" measuredW="300" measuredH="27" zOrder="41" locked="false" isInGroup="-1">
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::ButtonBar" x="942" y="1234" w="342" h="55" measuredW="309" measuredH="27" zOrder="41" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Home%2C%20Upload%2C%20Your%20Pictures%2C%20Log%20Out</text>
+        <text>Browse%2C%20Upload%2C%20Your%20Pictures%2C%20Log%20Out</text>
       </controlProperties>
     </control>
     <control controlID="89" controlTypeID="com.balsamiq.mockups::SearchBox" x="519" y="964" w="275" h="-1" measuredW="120" measuredH="36" zOrder="42" locked="false" isInGroup="-1">
