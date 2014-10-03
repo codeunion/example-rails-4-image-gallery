@@ -1,6 +1,6 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1173" measuredH="972" mockupW="1144" mockupH="956">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1173" measuredH="1084" mockupW="1144" mockupH="1068">
   <controls>
-    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="831" y="22" w="342" h="950" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="831" y="22" w="342" h="1062" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Pictr%2C%20by%20Your%20Username%0Ahttp%3A//pictr-your-username.herokuapp.com/</text>
       </controlProperties>
@@ -10,7 +10,7 @@
         <text>Upload%20a%20Picture</text>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="29" y="16" w="654" h="863" measuredW="450" measuredH="400" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="29" y="16" w="654" h="947" measuredW="450" measuredH="400" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Pictr%2C%20by%20Your%20Username%0Ahttp%3A//pictr-your-username.herokuapp.com/</text>
       </controlProperties>
@@ -20,7 +20,7 @@
         <text>Upload%20a%20Picture</text>
       </controlProperties>
     </control>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::ButtonBar" x="831" y="891" w="342" h="55" measuredW="309" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::ButtonBar" x="831" y="999" w="342" h="55" measuredW="309" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <selectedIndex>1</selectedIndex>
         <text>Browse%2C%20Upload%2C%20Your%20Pictures%2C%20Log%20Out</text>
@@ -70,37 +70,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="41" controlTypeID="__group__" x="54" y="597" w="348" h="124" measuredW="348" measuredH="124" zOrder="8" locked="false" isInGroup="-1">
-      <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="0" w="-1" h="-1" measuredW="152" measuredH="27" zOrder="0" locked="false" isInGroup="41">
-          <controlProperties>
-            <text>2.%20Organize%20it%21</text>
-          </controlProperties>
-        </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="26" y="30" w="-1" h="-1" measuredW="76" measuredH="26" zOrder="1" locked="false" isInGroup="41">
-          <controlProperties>
-            <size>18</size>
-            <text>Galleries%3A</text>
-          </controlProperties>
-        </control>
-        <control controlID="2" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="26" y="63" w="-1" h="-1" measuredW="80" measuredH="61" zOrder="2" locked="false" isInGroup="41">
-          <controlProperties>
-            <text>%5B%20%5D%20Gallery%20A%0A%5Bx%5D%20Gallery%20B%0A%5B%20%5D%20Gallery%20C</text>
-          </controlProperties>
-        </control>
-        <control controlID="3" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="141" y="63" w="-1" h="-1" measuredW="79" measuredH="61" zOrder="3" locked="false" isInGroup="41">
-          <controlProperties>
-            <text>%5B%20%5D%20Gallery%20D%0A%5B%20%5D%20Gallery%20E%0A%5BX%5D%20Gallery%20F</text>
-          </controlProperties>
-        </control>
-        <control controlID="4" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="268" y="63" w="-1" h="-1" measuredW="80" measuredH="61" zOrder="4" locked="false" isInGroup="41">
-          <controlProperties>
-            <text>%5BX%5D%20Gallery%20G%0A%5B%20%5D%20Gallery%20H%0A%5B%20%5D%20Gallery%20I</text>
-          </controlProperties>
-        </control>
-      </groupChildrenDescriptors>
-    </control>
-    <control controlID="42" controlTypeID="__group__" x="54" y="736" w="362" h="87" measuredW="362" measuredH="87" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="42" controlTypeID="__group__" x="54" y="838" w="362" h="87" measuredW="362" measuredH="87" zOrder="11" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="0" w="-1" h="-1" measuredW="129" measuredH="27" zOrder="0" locked="false" isInGroup="42">
           <controlProperties>
@@ -131,83 +101,135 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="48" controlTypeID="com.balsamiq.mockups::Button" x="872" y="196" w="286" h="54" measuredW="189" measuredH="32" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Button" x="872" y="196" w="286" h="54" measuredW="189" measuredH="32" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>CameraIcon%7Cmedium</icon>
         <size>18</size>
         <text>Select%20a%20Picture</text>
       </controlProperties>
     </control>
-    <control controlID="49" controlTypeID="com.balsamiq.mockups::SubTitle" x="846" y="169" w="-1" h="-1" measuredW="172" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::SubTitle" x="846" y="169" w="-1" h="-1" measuredW="172" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <text>1.%20Pick%20a%20Picture</text>
       </controlProperties>
     </control>
-    <control controlID="50" controlTypeID="com.balsamiq.mockups::SubTitle" x="846" y="263" w="-1" h="-1" measuredW="151" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::SubTitle" x="846" y="263" w="-1" h="-1" measuredW="151" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
         <text>2.%20Describe%20it%21</text>
       </controlProperties>
     </control>
-    <control controlID="51" controlTypeID="com.balsamiq.mockups::TextInput" x="872" y="324" w="286" h="-1" measuredW="79" measuredH="26" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::TextInput" x="872" y="324" w="286" h="-1" measuredW="79" measuredH="26" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="52" controlTypeID="com.balsamiq.mockups::Label" x="872" y="293" w="-1" h="-1" measuredW="67" measuredH="26" zOrder="14" locked="false" isInGroup="-1">
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Label" x="872" y="293" w="-1" h="-1" measuredW="67" measuredH="26" zOrder="16" locked="false" isInGroup="-1">
       <controlProperties>
         <size>18</size>
         <text>Caption%3A</text>
       </controlProperties>
     </control>
-    <control controlID="53" controlTypeID="com.balsamiq.mockups::Label" x="872" y="359" w="-1" h="-1" measuredW="97" measuredH="26" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Label" x="872" y="359" w="-1" h="-1" measuredW="97" measuredH="26" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
         <size>18</size>
         <text>Description%3A</text>
       </controlProperties>
     </control>
-    <control controlID="54" controlTypeID="com.balsamiq.mockups::TextArea" x="872" y="385" w="286" h="140" measuredW="200" measuredH="140" zOrder="16" locked="false" isInGroup="-1"/>
-    <control controlID="55" controlTypeID="com.balsamiq.mockups::TextInput" x="872" y="571" w="286" h="-1" measuredW="79" measuredH="26" zOrder="17" locked="false" isInGroup="-1">
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::TextArea" x="872" y="385" w="286" h="140" measuredW="200" measuredH="140" zOrder="18" locked="false" isInGroup="-1"/>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::TextInput" x="872" y="571" w="286" h="-1" measuredW="79" measuredH="26" zOrder="19" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="56" controlTypeID="com.balsamiq.mockups::Label" x="872" y="540" w="-1" h="-1" measuredW="253" measuredH="26" zOrder="18" locked="false" isInGroup="-1">
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Label" x="872" y="540" w="-1" h="-1" measuredW="253" measuredH="26" zOrder="20" locked="false" isInGroup="-1">
       <controlProperties>
         <size>18</size>
         <text>Tags%3A%20%28Seperate%20with%20commas%21%29</text>
       </controlProperties>
     </control>
-    <control controlID="57" controlTypeID="com.balsamiq.mockups::SubTitle" x="846" y="612" w="-1" h="-1" measuredW="152" measuredH="27" zOrder="19" locked="false" isInGroup="-1">
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::SubTitle" x="846" y="612" w="-1" h="-1" measuredW="152" measuredH="27" zOrder="21" locked="false" isInGroup="-1">
       <controlProperties>
         <text>2.%20Organize%20it%21</text>
       </controlProperties>
     </control>
-    <control controlID="58" controlTypeID="com.balsamiq.mockups::Label" x="872" y="642" w="-1" h="-1" measuredW="76" measuredH="26" zOrder="20" locked="false" isInGroup="-1">
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Label" x="872" y="642" w="-1" h="-1" measuredW="76" measuredH="26" zOrder="23" locked="false" isInGroup="-1">
       <controlProperties>
         <size>18</size>
         <text>Galleries%3A</text>
       </controlProperties>
     </control>
-    <control controlID="59" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="872" y="675" w="140" h="105" measuredW="80" measuredH="105" zOrder="21" locked="false" isInGroup="-1">
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="872" y="675" w="140" h="105" measuredW="80" measuredH="105" zOrder="24" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%5B%20%5D%20Gallery%20A%0A%5Bx%5D%20Gallery%20B%0A%5B%20%5D%20Gallery%20C%0A%5B%20%5D%20Gallery%20D%0A%5B%20%5D%20Gallery%20E</text>
       </controlProperties>
     </control>
-    <control controlID="60" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="1027" y="675" w="131" h="83" measuredW="80" measuredH="83" zOrder="22" locked="false" isInGroup="-1">
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="1027" y="675" w="131" h="83" measuredW="80" measuredH="83" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%5BX%5D%20Gallery%20F%0A%5BX%5D%20Gallery%20G%0A%5B%20%5D%20Gallery%20H%0A%5B%20%5D%20Gallery%20I</text>
       </controlProperties>
     </control>
-    <control controlID="62" controlTypeID="com.balsamiq.mockups::SubTitle" x="846" y="792" w="-1" h="-1" measuredW="129" measuredH="27" zOrder="23" locked="false" isInGroup="-1">
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::SubTitle" x="846" y="910" w="-1" h="-1" measuredW="129" measuredH="27" zOrder="27" locked="false" isInGroup="-1">
       <controlProperties>
         <text>3.%20Upload%20it%21</text>
       </controlProperties>
     </control>
-    <control controlID="63" controlTypeID="com.balsamiq.mockups::Button" x="871" y="825" w="287" h="54" measuredW="146" measuredH="27" zOrder="24" locked="false" isInGroup="-1">
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::Button" x="871" y="943" w="287" h="54" measuredW="146" measuredH="27" zOrder="28" locked="false" isInGroup="-1">
       <controlProperties>
         <size>18</size>
         <text>Upload%20Picture%21</text>
       </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::SubTitle" x="54" y="597" w="-1" h="-1" measuredW="152" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2.%20Organize%20it%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="195" y="660" w="-1" h="-1" measuredW="79" measuredH="61" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5B%20%5D%20Gallery%20D%0A%5B%20%5D%20Gallery%20E%0A%5BX%5D%20Gallery%20F</text>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="322" y="660" w="-1" h="-1" measuredW="80" measuredH="61" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5BX%5D%20Gallery%20G%0A%5B%20%5D%20Gallery%20H%0A%5B%20%5D%20Gallery%20I</text>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::Label" x="872" y="788" w="-1" h="-1" measuredW="139" measuredH="26" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Privacy%20Settings%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::RadioButtonGroup" x="872" y="818" w="286" h="84" measuredW="261" measuredH="83" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%28o%29%20Only%20I%20can%20see%20this%20image.%0A%28%20%29%20Anyone%20with%20the%20secret%20link%20may%20see%20this%0A%20%20%20%20%20%20%20image.%0A%28%20%29%20Anyone%20may%20find%20and%20see%20this%20image.</text>
+      </controlProperties>
+    </control>
+    <control controlID="77" controlTypeID="__group__" x="80" y="627" w="302" h="196" measuredW="302" measuredH="196" zOrder="29" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="76" measuredH="26" zOrder="0" locked="false" isInGroup="77">
+          <controlProperties>
+            <size>18</size>
+            <text>Galleries%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="0" y="33" w="-1" h="-1" measuredW="80" measuredH="61" zOrder="1" locked="false" isInGroup="77">
+          <controlProperties>
+            <text>%5B%20%5D%20Gallery%20A%0A%5Bx%5D%20Gallery%20B%0A%5B%20%5D%20Gallery%20C</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="0" y="105" w="-1" h="-1" measuredW="139" measuredH="26" zOrder="2" locked="false" isInGroup="77">
+          <controlProperties>
+            <size>18</size>
+            <text>Privacy%20Settings%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::RadioButtonGroup" x="0" y="135" w="-1" h="-1" measuredW="302" measuredH="61" zOrder="3" locked="false" isInGroup="77">
+          <controlProperties>
+            <text>%28o%29%20Only%20I%20can%20see%20this%20image.%0A%28%20%29%20Anyone%20with%20the%20secret%20link%20may%20see%20this%20image.%0A%28%20%29%20Anyone%20may%20find%20and%20see%20this%20image.</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
     </control>
   </controls>
 </mockup>
