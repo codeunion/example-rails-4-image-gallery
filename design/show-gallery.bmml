@@ -93,5 +93,22 @@
         <text>Tapping%20or%20clicking%20the%20image%20opens%20it%20up%20as%20the%20only%20content%20on%20the%20page.</text>
       </controlProperties>
     </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Label" x="229" y="112" w="-1" h="-1" measuredW="115" measuredH="28" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>%5BEdit%5D%20-%20%5BDelete%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Label" x="1044" y="118" w="-1" h="-1" measuredW="115" measuredH="28" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>%5BEdit%5D%20-%20%5BDelete%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::StickyNote" x="222" y="142" w="109" h="142" measuredW="109" measuredH="123" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>edit/delete.%20links%20are%20only%20visible%20to%20the%20creator%20of%20the%20gallery/picture</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>
