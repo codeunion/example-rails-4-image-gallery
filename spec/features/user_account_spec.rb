@@ -18,10 +18,15 @@ feature "User Account Spec" do
     click_link_or_button "create_account"
 
     fill_in "user_email", with: guest[:email]
+    fill_in "user_nickname", with: guest[:nickname]
     fill_in "user_password", with: guest[:password]
     fill_in "user_password_confirmation", with: guest[:password]
 
     click_link_or_button "Sign up"
+
+    within "nav" do
+      expect(page).to have_content("Welcome, #{guest[:nickname]}")
+    end
 
     expect(page).to have_content("You have signed up successfully")
     expect(User.exists?(email: guest[:email])).to be_truthy
@@ -35,6 +40,9 @@ feature "User Account Spec" do
     scenario "may log in" do
       login_as(registered_user)
 
+      within "nav" do
+        expect(page).to have_content("Welcome, #{registered_user[:nickname]}")
+      end
       expect(page).to have_content("Signed in successfully")
       expect(current_path).to eq(root_path)
     end
