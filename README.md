@@ -2,6 +2,7 @@ A multi-user photo upload site built in rails.
 
 ## Demonstration Objectives
 This example is intended to demonstrate:
+
 1. Making very small, purposeful commits
 2. Using feature-tests to shape your codebase
 3. Regular refactoring to the [4 rules of simple
