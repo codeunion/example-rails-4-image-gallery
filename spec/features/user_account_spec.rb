@@ -4,7 +4,7 @@ describe "User Account Spec" do
   describe "Creating an Account" do
     it "Persists the user in the database" do
       visit root_path
-      click_link_or_button "#create_account"
+      click_link_or_button "create_account"
       within "#user_form" do
         fill_in ".user_name", with: "zee"
         fill_in ".email_address", with: "zee@example.com"
