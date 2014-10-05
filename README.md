@@ -15,8 +15,8 @@ requests oldest to newest, commit by commit, both messages and code.
 
 ### Release 1.0.0
 
-- [ ] [A guest may register as a
-  `User`](https://github.com/codeunion/example-rails-4-image-gallery/pull/1
+- [x] A guest may register as a
+  `User` [PR](https://github.com/codeunion/example-rails-4-image-gallery/pull/1)
 - [ ] A `User` may upload a `Image`
 - [ ] A `User` may see a list of their `Image`s
 - [ ] A guest may not find a `User`s `Image`
