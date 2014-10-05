@@ -1,0 +1,304 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1173" measuredH="1177" mockupW="1144" mockupH="1161">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="831" y="22" w="342" h="1155" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pictr%2C%20by%20Your%20Username%0Ahttp%3A//pictr-your-username.herokuapp.com/</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="846" y="111" w="-1" h="-1" measuredW="168" measuredH="43" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Gallery%20A</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="29" y="16" w="654" h="926" measuredW="450" measuredH="400" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pictr%2C%20by%20Your%20Username%0Ahttp%3A//pictr-your-username.herokuapp.com/galleries/6/edit</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="44" y="99" w="-1" h="-1" measuredW="168" measuredH="43" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Gallery%20A</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::ButtonBar" x="831" y="1101" w="342" h="55" measuredW="309" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>-1</selectedIndex>
+        <text>Browse%2C%20Upload%2C%20Your%20Pictures%2C%20Log%20Out</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="361" y="99" w="-1" h="-1" measuredW="307" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%5BBrowse%5D%20-%20%5BUpload%5D%20-%20%5BYour%20Pictures%5D%20-%20%5BLog%20Out%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="846" y="1032" w="312" h="54" measuredW="127" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Save%20Gallery</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::TextInput" x="44" y="173" w="336" h="-1" measuredW="69" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Gallery%20A</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="44" y="142" w="-1" h="-1" measuredW="52" measuredH="26" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Name%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="44" y="214" w="-1" h="-1" measuredW="97" measuredH="26" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Description%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::TextArea" x="44" y="240" w="336" h="140" measuredW="200" measuredH="140" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident%2C%20sunt%20in%20culpa%20qui%20officia%20deserunt%20mollit%20anim%20id%20est%20laborum.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::SubTitle" x="44" y="402" w="-1" h="-1" measuredW="200" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pictures%20in%20Gallery</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="__group__" x="44" y="436" w="138" h="180" measuredW="138" measuredH="180" zOrder="12" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="138" h="137" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="12"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="30" y="137" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="1" locked="false" isInGroup="12">
+          <controlProperties>
+            <text>Lorem%20Ipsum</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::CheckBox" x="38" y="158" w="-1" h="-1" measuredW="63" measuredH="22" zOrder="2" locked="false" isInGroup="12">
+          <controlProperties>
+            <state>selected</state>
+            <text>Include</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="14" controlTypeID="__group__" x="206" y="436" w="138" h="180" measuredW="138" measuredH="180" zOrder="13" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="138" h="137" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="14"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="30" y="137" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="1" locked="false" isInGroup="14">
+          <controlProperties>
+            <text>Lorem%20Ipsum</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::CheckBox" x="38" y="158" w="-1" h="-1" measuredW="63" measuredH="22" zOrder="2" locked="false" isInGroup="14">
+          <controlProperties>
+            <state>selected</state>
+            <text>Include</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::TextInput" x="846" y="191" w="286" h="-1" measuredW="69" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Gallery%20A</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="846" y="160" w="-1" h="-1" measuredW="52" measuredH="26" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Name%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Label" x="846" y="226" w="-1" h="-1" measuredW="97" measuredH="26" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Description%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::TextArea" x="846" y="252" w="286" h="140" measuredW="200" measuredH="140" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident%2C%20sunt%20in%20culpa%20qui%20officia%20deserunt%20mollit%20anim%20id%20est%20laborum.</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::SubTitle" x="846" y="408" w="-1" h="-1" measuredW="200" measuredH="27" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pictures%20in%20Gallery</text>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="__group__" x="846" y="436" w="138" h="180" measuredW="138" measuredH="180" zOrder="19" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="138" h="137" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="21"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="30" y="137" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="1" locked="false" isInGroup="21">
+          <controlProperties>
+            <text>Lorem%20Ipsum</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::CheckBox" x="38" y="158" w="-1" h="-1" measuredW="63" measuredH="22" zOrder="2" locked="false" isInGroup="21">
+          <controlProperties>
+            <state>selected</state>
+            <text>Include</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="22" controlTypeID="__group__" x="1020" y="436" w="138" h="180" measuredW="138" measuredH="180" zOrder="20" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="138" h="137" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="22"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="30" y="137" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="1" locked="false" isInGroup="22">
+          <controlProperties>
+            <text>Lorem%20Ipsum</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::CheckBox" x="38" y="158" w="-1" h="-1" measuredW="63" measuredH="22" zOrder="2" locked="false" isInGroup="22">
+          <controlProperties>
+            <state>selected</state>
+            <text>Include</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="23" controlTypeID="__group__" x="846" y="652" w="138" h="180" measuredW="138" measuredH="180" zOrder="21" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="138" h="137" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="23"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="30" y="137" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="1" locked="false" isInGroup="23">
+          <controlProperties>
+            <text>Lorem%20Ipsum</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::CheckBox" x="38" y="158" w="-1" h="-1" measuredW="63" measuredH="22" zOrder="2" locked="false" isInGroup="23">
+          <controlProperties>
+            <state>up</state>
+            <text>Include</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="24" controlTypeID="__group__" x="1020" y="652" w="138" h="180" measuredW="138" measuredH="180" zOrder="22" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="138" h="137" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="24"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="30" y="137" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="1" locked="false" isInGroup="24">
+          <controlProperties>
+            <text>Lorem%20Ipsum</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::CheckBox" x="38" y="158" w="-1" h="-1" measuredW="63" measuredH="22" zOrder="2" locked="false" isInGroup="24">
+          <controlProperties>
+            <state>up</state>
+            <text>Include</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="26" controlTypeID="__group__" x="206" y="666" w="138" h="180" measuredW="138" measuredH="180" zOrder="23" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="138" h="137" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="26"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="30" y="137" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="1" locked="false" isInGroup="26">
+          <controlProperties>
+            <text>Lorem%20Ipsum</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::CheckBox" x="38" y="158" w="-1" h="-1" measuredW="63" measuredH="22" zOrder="2" locked="false" isInGroup="26">
+          <controlProperties>
+            <state>up</state>
+            <text>Include</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="28" controlTypeID="__group__" x="530" y="666" w="138" h="180" measuredW="138" measuredH="180" zOrder="24" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="138" h="137" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="28"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="30" y="137" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="1" locked="false" isInGroup="28">
+          <controlProperties>
+            <text>Lorem%20Ipsum</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::CheckBox" x="38" y="158" w="-1" h="-1" measuredW="63" measuredH="22" zOrder="2" locked="false" isInGroup="28">
+          <controlProperties>
+            <state>up</state>
+            <text>Include</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Button" x="44" y="861" w="337" h="48" measuredW="127" measuredH="27" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Save%20Gallery</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::SubTitle" x="44" y="639" w="-1" h="-1" measuredW="245" measuredH="27" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pictures%20Not%20in%20Gallery</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="__group__" x="44" y="666" w="138" h="180" measuredW="138" measuredH="180" zOrder="27" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="138" h="137" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="31"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="30" y="137" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="1" locked="false" isInGroup="31">
+          <controlProperties>
+            <text>Lorem%20Ipsum</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::CheckBox" x="38" y="158" w="-1" h="-1" measuredW="63" measuredH="22" zOrder="2" locked="false" isInGroup="31">
+          <controlProperties>
+            <state>up</state>
+            <text>Include</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="32" controlTypeID="__group__" x="368" y="666" w="138" h="180" measuredW="138" measuredH="180" zOrder="28" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="138" h="137" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="32"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="30" y="137" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="1" locked="false" isInGroup="32">
+          <controlProperties>
+            <text>Lorem%20Ipsum</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::CheckBox" x="38" y="158" w="-1" h="-1" measuredW="63" measuredH="22" zOrder="2" locked="false" isInGroup="32">
+          <controlProperties>
+            <state>up</state>
+            <text>Include</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::SubTitle" x="846" y="624" w="-1" h="-1" measuredW="245" measuredH="27" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pictures%20Not%20in%20Gallery</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="__group__" x="846" y="837" w="138" h="180" measuredW="138" measuredH="180" zOrder="30" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="138" h="137" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="35"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="30" y="137" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="1" locked="false" isInGroup="35">
+          <controlProperties>
+            <text>Lorem%20Ipsum</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::CheckBox" x="38" y="158" w="-1" h="-1" measuredW="63" measuredH="22" zOrder="2" locked="false" isInGroup="35">
+          <controlProperties>
+            <state>up</state>
+            <text>Include</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="36" controlTypeID="__group__" x="1020" y="837" w="138" h="180" measuredW="138" measuredH="180" zOrder="31" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="138" h="137" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="36"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="30" y="137" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="1" locked="false" isInGroup="36">
+          <controlProperties>
+            <text>Lorem%20Ipsum</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::CheckBox" x="38" y="158" w="-1" h="-1" measuredW="63" measuredH="22" zOrder="2" locked="false" isInGroup="36">
+          <controlProperties>
+            <state>up</state>
+            <text>Include</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
