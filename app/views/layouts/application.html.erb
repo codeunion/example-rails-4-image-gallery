@@ -8,9 +8,12 @@
 </head>
 <body>
 <nav>
-  <%= link_to("Create an Account", new_user_registration_path, id: :create_account) %>
-  <%= link_to("Sign in", new_user_session_path, id: :sign_in) %>
-  <%= link_to('Sign out', destroy_user_session_path, method: :delete, id: :sign_out) %>
+  <% if user_signed_in? %>
+    <%= link_to('Sign out', destroy_user_session_path, method: :delete, id: :sign_out) %>
+  <% else %>
+    <%= link_to("Create an Account", new_user_registration_path, id: :create_account) %>
+    <%= link_to("Sign in", new_user_session_path, id: :sign_in) %>
+  <% end %>
 </nav>
 
 <% [:notice, :alert].each do |type| %>
