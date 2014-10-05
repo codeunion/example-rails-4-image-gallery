@@ -33,6 +33,18 @@ feature "User Account Spec" do
     expect(current_path).to eq(root_path)
   end
 
+  scenario "All create account fields are required" do
+    visit root_path
+    click_link_or_button "create_account"
+
+    click_link_or_button "Sign up"
+
+    expect(current_path).to eq(user_registration_path)
+    expect(page).to have_content("Email can't be blank")
+    expect(page).to have_content("Nickname can't be blank")
+    expect(page).to have_content("Password can't be blank")
+  end
+
   context "A registered user" do
     let(:registered_user) { Fixtures::Users[:registered] }
     before { User.create(registered_user) }
