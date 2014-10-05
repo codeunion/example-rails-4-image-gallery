@@ -12,8 +12,8 @@ describe "User Account Spec" do
 
       click_link_or_button "Sign up"
 
-      expect(page).to have_content("Account created for zee@examplecom")
-      expect(User.exists?(email_address: "zee@example.com")).to be_truthy
+      expect(page).to have_content("You have signed up successfully")
+      expect(User.exists?(email: "zee@example.com")).to be_truthy
       expect(current_path).to eq(root_path)
     end
   end
