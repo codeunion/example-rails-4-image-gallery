@@ -11,8 +11,9 @@
   <a id="create_account" href="<%= new_user_registration_path %>">Create an Account</a>
 </nav>
 
-<%= render partial: "shared/flash", locals: { type: :notice } %>
-<%= render partial: "shared/flash", locals: { type: :alert } %>
+<% [:notice, :alert].each do |type| %>
+  <%= render partial: "shared/flash", locals: { type: type } %>
+<% end %>
 
 <%= yield %>
 
