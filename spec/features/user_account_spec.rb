@@ -1,51 +1,50 @@
 require 'features/helper'
 
 feature "User Account Spec" do
+  def  login_as(user)
+    visit "/"
+    click_link_or_button "sign_in"
+
+    fill_in "user_email", with: user[:email]
+    fill_in "user_password", with: user[:password]
+
+    click_link_or_button "Log in"
+  end
+
   scenario "A guest may create an account" do
+    guest = Fixtures::Users[:guest]
+
     visit root_path
     click_link_or_button "create_account"
 
-    fill_in "user_email", with: "zee@example.com"
-    fill_in "user_password", with: "password"
-    fill_in "user_password_confirmation", with: "password"
+    fill_in "user_email", with: guest[:email]
+    fill_in "user_password", with: guest[:password]
+    fill_in "user_password_confirmation", with: guest[:password]
 
     click_link_or_button "Sign up"
 
     expect(page).to have_content("You have signed up successfully")
-    expect(User.exists?(email: "zee@example.com")).to be_truthy
+    expect(User.exists?(email: guest[:email])).to be_truthy
     expect(current_path).to eq(root_path)
   end
 
-  scenario "A registered user may log in" do
-    registered_user = User.create({ email: "registered-user@example.com",
-                                    password: "password" })
+  context "A registered user" do
+    let(:registered_user) { Fixtures::Users[:registered] }
+    before { User.create(registered_user) }
 
-    visit "/"
-    click_link_or_button "sign_in"
+    scenario "may log in" do
+      login_as(registered_user)
 
-    fill_in "user_email", with: "registered-user@example.com"
-    fill_in "user_password", with: "password"
+      expect(page).to have_content("Signed in successfully")
+      expect(current_path).to eq(root_path)
+    end
 
-    click_link_or_button "Log in"
+    scenario "may log out" do
+      login_as(registered_user)
 
-    expect(page).to have_content("Signed in successfully")
-    expect(current_path).to eq(root_path)
-  end
+      click_link_or_button "sign_out"
 
-  scenario "A logged in user may log out" do
-    registered_user = User.create({ email: "registered-user@example.com",
-                                    password: "password" })
-
-    visit "/"
-    click_link_or_button "sign_in"
-
-    fill_in "user_email", with: "registered-user@example.com"
-    fill_in "user_password", with: "password"
-
-    click_link_or_button "Log in"
-
-
-    click_link_or_button "sign_out"
-    expect(page).to have_content("Signed out successfully")
+      expect(page).to have_content("Signed out successfully")
+    end
   end
 end
