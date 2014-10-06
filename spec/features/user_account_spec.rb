@@ -1,16 +1,6 @@
 require 'features/helper'
 
 feature "User Account Spec" do
-  def  login_as(user)
-    visit "/"
-    click_link_or_button "sign_in"
-
-    fill_in "user_email", with: user[:email]
-    fill_in "user_password", with: user[:password]
-
-    click_link_or_button "Log in"
-  end
-
   scenario "A guest may create an account" do
     guest = Fixtures::Users[:guest]
 
