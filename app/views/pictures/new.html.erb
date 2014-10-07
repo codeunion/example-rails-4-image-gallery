@@ -3,10 +3,29 @@
 
 <%= form_for(@picture) do |f| %>
   <h3>1. Pick a Picture</h3>
-  <%= f.file_field :picture %>
+
+  <div>
+    <%= f.file_field :picture %>
+    <% if @picture.errors[:picture] %>
+      <ul class="error">
+        <% @picture.errors[:picture].each do |error| %>
+          <li>Picture <%= error %></li>
+        <% end %>
+      </ul>
+    <% end %>
+  </div>
+
   <h3>2. Describe It!</h3>
-  <div><%= f.label :caption %><br />
-    <%= f.text_field :caption %></div>
+  <div><%= f.label :caption %> (Required)<br />
+    <%= f.text_field :caption %>
+    <% if @picture.errors[:caption] %>
+      <ul class="error">
+        <% @picture.errors[:caption].each do |error| %>
+          <li>Caption <%= error %></li>
+        <% end %>
+      </ul>
+    <% end %>
+  </div>
 
   <div><%= f.label :description %><br />
     <%= f.text_area :description %></div>

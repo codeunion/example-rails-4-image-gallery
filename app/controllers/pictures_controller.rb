@@ -7,12 +7,16 @@ class PicturesController < ApplicationController
 
   def create
     @picture = current_user.pictures.create(safe_picture_params)
-    flash[:notice] = "You've uploaded a picture!"
-    redirect_to root_path
+    if @picture.persisted?
+      flash[:notice] = "You've uploaded a picture!"
+      redirect_to root_path
+    else
+      render :new
+    end
   end
 
   private
   def safe_picture_params
-    params.require(:picture).permit(:name, :description, :picture)
+    params.require(:picture).permit(:caption, :description, :picture)
   end
 end
