@@ -1,1 +1,3 @@
-<%= link_to "Upload Picture", new_picture_path, { id: "upload_picture" } %>
+<% if user_signed_in? %>
+  <%= link_to "Upload Picture", new_picture_path, { id: "upload_picture" } %>
+<% end %>

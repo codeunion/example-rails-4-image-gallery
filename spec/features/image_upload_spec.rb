@@ -20,5 +20,12 @@ feature "Image Upload Spec" do
     expect(latest_picture.owner).to eq user
     expect(page).to have_content("You've uploaded a picture!")
   end
+
+  scenario "A guest may not upload a picture" do
+    visit root_path
+    expect(page).not_to have_selector "#upload_picture"
+    visit new_picture_path
+    expect(page.current_path).to eq new_user_session_path
+  end
 end
 
