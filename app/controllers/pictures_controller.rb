@@ -5,6 +5,7 @@ class PicturesController < ApplicationController
 
   def create
     @picture = current_user.pictures.create(safe_picture_params)
+    flash[:notice] = "You've uploaded a picture!"
     redirect_to root_path
   end
 

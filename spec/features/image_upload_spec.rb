@@ -18,6 +18,7 @@ feature "Image Upload Spec" do
     latest_picture = Picture.last
 
     expect(latest_picture.owner).to eq user
+    expect(page).to have_content("You've uploaded a picture!")
   end
 end
 
