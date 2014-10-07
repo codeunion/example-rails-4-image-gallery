@@ -1,0 +1,7 @@
+<% if model.errors[field] %>
+  <ul class="error">
+    <% model.errors[field].each do |error| %>
+      <li><%= field.capitalize %> <%= error %></li>
+    <% end %>
+  </ul>
+<% end %>

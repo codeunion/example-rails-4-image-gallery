@@ -51,9 +51,14 @@ requests oldest to newest, commit by commit, both messages and code.
 
 Once you've forked and cloned this repo, you'll want to:
 
-```
-bundle install
-rake db:setup
-rake
-rails s
-```
+1. [Configure
+   AWS](https://github.com/codeunion/examples-sinatra/blob/master/s3-file-upload/README.md#configuring-aws)
+2. [Configure
+   S3](https://github.com/codeunion/examples-sinatra/blob/master/s3-file-upload/README.md#configuring-s3)
+3. Launch the app:
+   ```
+   bundle install
+   rake db:setup
+   rake
+   rails s
+   ```

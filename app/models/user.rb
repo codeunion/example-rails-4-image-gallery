@@ -5,4 +5,6 @@ class User < ActiveRecord::Base
          :recoverable, :rememberable, :trackable, :validatable
 
   validates :nickname, presence: true
+
+  has_many :pictures, foreign_key: :owner_id
 end
