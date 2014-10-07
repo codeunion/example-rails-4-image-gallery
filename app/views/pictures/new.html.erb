@@ -6,25 +6,13 @@
 
   <div>
     <%= f.file_field :picture %>
-    <% if @picture.errors[:picture] %>
-      <ul class="error">
-        <% @picture.errors[:picture].each do |error| %>
-          <li>Picture <%= error %></li>
-        <% end %>
-      </ul>
-    <% end %>
+    <%= render partial: "shared/error", locals: { model: @picture, field: :picture } %>
   </div>
 
   <h3>2. Describe It!</h3>
   <div><%= f.label :caption %> (Required)<br />
     <%= f.text_field :caption %>
-    <% if @picture.errors[:caption] %>
-      <ul class="error">
-        <% @picture.errors[:caption].each do |error| %>
-          <li>Caption <%= error %></li>
-        <% end %>
-      </ul>
-    <% end %>
+    <%= render partial: "shared/error", locals: { model: @picture, field: :caption } %>
   </div>
 
   <div><%= f.label :description %><br />
