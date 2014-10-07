@@ -4,12 +4,8 @@ class PicturesController < ApplicationController
   end
 
   def create
-    @picture = Picture.create(safe_picture_params)
-    if @picture.persisted?
-      redirect_to root_path
-    else
-      render :new
-    end
+    @picture = current_user.pictures.create(safe_picture_params)
+    redirect_to root_path
   end
 
   private
