@@ -11,4 +11,8 @@ module Fixtures
       password: "password"
     }
   }
+
+  def self.image_path(image)
+    File.join(Rails.root, "spec", "fixtures", "images", image)
+  end
 end
