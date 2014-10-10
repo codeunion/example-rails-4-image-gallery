@@ -10,8 +10,8 @@ feature "Image Upload Spec" do
 
     attach_file "picture_picture", Fixtures.image_path("adorable-kitten.jpg")
 
-    fill_in "picture_caption", with: "A cool picture"
-    fill_in "picture_description", with: "Some random gibberish"
+    fill_in "picture_caption", with: "a cool picture"
+    fill_in "picture_description", with: "some random gibberish"
 
     click_link_or_button "commit"
 
@@ -19,6 +19,7 @@ feature "Image Upload Spec" do
 
     expect(latest_picture.owner).to eq user
     expect(page).to have_content("You've uploaded a picture!")
+    expect(page.current_path).to eq user_pictures_path(user)
   end
 
   scenario "A picture must include all required fields to be uploaded" do

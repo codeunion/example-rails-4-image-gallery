@@ -1,4 +1,9 @@
 module Fixtures
+
+  def self.image_path(image)
+    File.expand_path(File.join(__FILE__, "..", "..", "fixtures", "images", image))
+  end
+
   Users = {
     guest: {
       email: "guest@example.com",
@@ -12,7 +17,22 @@ module Fixtures
     }
   }
 
-  def self.image_path(image)
-    File.join(Rails.root, "spec", "fixtures", "images", image)
+  Pictures = {
+    kitten:  {
+      picture: File.open(image_path("adorable-kitten.jpg")),
+      caption: "An adorable kitten",
+      description: "Isn't it adorable? I think it is! YOU SHOULD TOO!"
+    }
+  }
+
+
+  def self.random(type)
+    if type == :picture
+      collection = Pictures
+    else
+      collection = Users
+    end
+
+    collection[collection.keys.sample]
   end
 end
