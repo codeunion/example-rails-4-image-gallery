@@ -19,6 +19,7 @@ feature "Image Upload Spec" do
 
     expect(latest_picture.owner).to eq user
     expect(page).to have_content("You've uploaded a picture!")
+    expect(page.current_path).to eq user_pictures_path(user)
   end
 
   scenario "A picture must include all required fields to be uploaded" do

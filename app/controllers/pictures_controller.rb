@@ -9,7 +9,7 @@ class PicturesController < ApplicationController
     @picture = current_user.pictures.create(safe_picture_params)
     if @picture.persisted?
       flash[:notice] = "You've uploaded a picture!"
-      redirect_to root_path
+      redirect_to user_pictures_path(current_user)
     else
       render :new
     end
