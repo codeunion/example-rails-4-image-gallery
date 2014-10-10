@@ -1,3 +1,4 @@
 <% if user_signed_in? %>
   <%= link_to "Upload Picture", new_picture_path, { id: "upload_picture" } %>
+  <%= link_to "My Pictures", user_pictures_path(current_user), { id: "my_pictures" } %>
 <% end %>

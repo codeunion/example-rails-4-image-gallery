@@ -10,8 +10,8 @@ feature "Image Upload Spec" do
 
     attach_file "picture_picture", Fixtures.image_path("adorable-kitten.jpg")
 
-    fill_in "picture_caption", with: "A cool picture"
-    fill_in "picture_description", with: "Some random gibberish"
+    fill_in "picture_caption", with: "a cool picture"
+    fill_in "picture_description", with: "some random gibberish"
 
     click_link_or_button "commit"
 
