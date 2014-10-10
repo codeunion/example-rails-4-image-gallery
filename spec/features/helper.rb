@@ -13,6 +13,14 @@ module FeatureHelpers
   end
 end
 
+RSpec::Matchers.define :have_picture do |picture|
+  match do |actual|
+    has_css?("#picture_#{picture.id}") && within("#picture_#{picture.id}") do
+      page.has_css?("img") && page.has_content?(picture.caption)
+    end
+  end
+end
+
 RSpec.configure do |config|
   config.include Rails.application.routes.url_helpers
   config.include FeatureHelpers
