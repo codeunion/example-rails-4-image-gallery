@@ -20,7 +20,8 @@ requests oldest to newest, commit by commit, both messages and code.
   `User` [PR](https://github.com/codeunion/example-rails-4-image-gallery/pull/1)
 - [x] A `User` may upload a `Picture`
   [PR](https://github.com/codeunion/example-rails-4-image-gallery/pull/2)
-- [ ] A `User` may see a list of their `Picture`s
+- [x] A `User` may see a list of their `Picture`s
+  [PR](https://github.com/codeunion/example-rails-4-image-gallery/pull/3)
 - [ ] A guest may not find a `User`s `Picture`
 - [ ] A guest may view a `User`s `Picture` if they are given a secret
   read-only link.
