@@ -3,7 +3,7 @@ Rails.application.routes.draw do
   root 'welcome#index'
 
   resources :users, only: [] do
-    resources :pictures, only: [:index], controller: "users/pictures"
+    resources :pictures, only: [:index, :show], controller: "users/pictures"
   end
   resources :pictures, only: [:new, :create]
 end

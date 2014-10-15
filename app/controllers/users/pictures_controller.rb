@@ -5,5 +5,9 @@ module Users
     def index
       @pictures = current_user.pictures
     end
+
+    def show
+      @picture = User.find(params[:user_id]).pictures.find(params[:id])
+    end
   end
 end

@@ -1,6 +1,6 @@
 <% @pictures.each do |picture| %>
   <figure id="picture_<%=picture.id%>">
     <%= image_tag(picture.picture_url, alt: picture.description) %>
-    <figcaption><%=picture.caption%></figcaption>
+    <figcaption><%= link_to picture.caption, user_picture_path(picture.owner, picture) %></figcaption>
   </article>
 <% end %>

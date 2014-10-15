@@ -1,0 +1,6 @@
+<figure id="picture_<%=@picture.id%>">
+  <%= image_tag(@picture.picture_url, alt: @picture.description) %>
+  <figcaption><%=@picture.caption%></figcaption>
+  <p>Copy the following URL to share this picture: <%= link_to user_picture_url(@picture.owner, @picture), user_picture_url(@picture.owner, @picture) %>
+
+</article>
