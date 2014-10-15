@@ -1,0 +1,4 @@
+<figure id="picture_<%=@picture.id%>">
+  <%= image_tag(@picture.picture_url, alt: @picture.description) %>
+  <figcaption><%=@picture.caption%></figcaption>
+</article>
