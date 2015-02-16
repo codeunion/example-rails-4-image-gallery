@@ -1,0 +1,17 @@
+{
+  "category": "example",
+  "tags": [
+    "ruby",
+    "rails",
+    "file-uploading",
+    "authentication",
+    "relational-databases",
+    "aws",
+    "s3",
+    "carrierwave",
+    "devise",
+    "rspec",
+    "behavior-driven-development"
+  ],
+  "notes": "Such commit history!"
+}
